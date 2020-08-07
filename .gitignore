@@ -1,0 +1,8 @@
+# Datasets
+recursos/*.csv
+
+# Incluir
+!recursos/N-Equilibrado.csv
+
+# Temporales
+.ipynb_checkpoints
